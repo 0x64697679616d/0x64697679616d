@@ -1,26 +1,19 @@
-<!-- Replace every YOUR_* placeholder before pushing -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2a2a&height=180&section=header&text=Divyam&fontColor=cfd8d8&fontSize=56&fontAlignY=40&animation=fadeIn&desc=AI%20%2F%20ML%20%C2%B7%20Multi-Agent%20LLM%20Systems&descAlignY=62&descSize=16" alt="Divyam banner" width="100%"/>
-
-BCA (AI/ML) student · Bangalore, India
-Building toward research on multi-agent LLM systems.
-
+  <img src="assets/header.svg" alt="0x64697679616d: signal in the noise" width="100%"/>
 </div>
 
 ---
 
-## `> whoami`
+## `> who_am_i`
 
-- 1st-sem BCA (AI/ML) student, graduating 2029
+- AI/ML student
 - Building a multi-agent orchestration platform: a central orchestrator splits tasks into a DAG and routes them to specialized agents
 - Currently learning transformers, RAG and LangGraph
-- Long-term goal: a master's in Japan focused on agent orchestration research
+- Long-term goal: research on multi-agent LLM systems
 
 ---
 
-## `> tech_stack`
+## `> arsenal`
 
 <div align="center">
   <img src="assets/tech-stack.svg" alt="Tech stack: Python, C, JavaScript, SQL, React, Vite, Bootstrap, Flask, FastAPI, Node.js, Express, scikit-learn, NumPy, pandas, TensorFlow, Keras, NLP, Ollama, OpenAI, Gemini, Groq, OpenRouter, MCP, n8n, MongoDB, PostgreSQL, MySQL, Redis, Qdrant, Supabase, Firebase, Docker, Git, GitHub Actions, AWS, Google Cloud, Oracle Cloud, Vercel, Inngest, E2B, VS Code, Jupyter, Postman, Figma, Linux. Learning: Transformers, RAG, LangGraph" width="100%"/>
@@ -46,17 +39,10 @@ Turns messy, unstructured disaster reports into a prioritized, map-based picture
 
 **Stack:** `Python` · `scikit-learn` · `NLP` · `Flask` · `React` · `MongoDB`
 
-[View repository](https://github.com/YOUR_USERNAME/YOUR_REPO) · *Prototype built for the SIH 2026 college screening round*
+*Hackathon prototype · repository coming soon*
 
 ---
 
-## `> connect`
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1213?style=flat-square&logo=linkedin&logoColor=3fa9a0)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0d1213?style=flat-square&logo=gmail&logoColor=3fa9a0)](mailto:YOUR_EMAIL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a2a,100:000000&height=80&section=footer" width="100%" alt=""/>
-
+  <sub><code>// end of transmission</code></sub>
 </div>
